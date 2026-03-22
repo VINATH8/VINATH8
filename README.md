@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'am Vinath 👋
+# ML engineer aiming to build something revolutionary.
 
-<!--
-**VINATH8/VINATH8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer obsessed with turning ideas into real products — AI, web, whatever solves the problem. Currently exploring fintech. Always building something new.
 
-Here are some ideas to get you started:
+## Tools & Tech
+- Python
+- Machine Learning
+- Git
+- SQL
+- Html,CSS,Js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Status
+
+- Building AI-based web projects and applying ML to real financial problems
+- Learning how money actually moves — markets, risk, data
+- Looking for collabs with people who want to build, not just talk about it
+
+My work is centered around building and experimenting. I like taking ideas from zero to something usable, improving them through iteration, and focusing on practical outcomes instead of theory.
+
+Open to collabs and conversations. → vinathjshetty8@email.com
